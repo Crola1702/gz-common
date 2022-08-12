@@ -16,4 +16,4 @@
  */
 
 #include <ignition/common/events.hh>
-#include <ignition/common/config.hh>
+#include <gz/common/config.hh>

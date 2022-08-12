@@ -16,4 +16,4 @@
  */
 
 #include <ignition/common/Console.hh>
-#include <ignition/common/config.hh>
+#include <gz/common/config.hh>

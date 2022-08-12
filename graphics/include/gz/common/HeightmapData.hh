@@ -16,4 +16,4 @@
  */
 
 #include <ignition/common/HeightmapData.hh>
-#include <ignition/common/config.hh>
+#include <gz/common/config.hh>
